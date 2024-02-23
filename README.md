@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushagra Kumar</h1>
-<h3 align="center">Frontend Developer with 2+ years of experience who is passionate about learning new technologies, bringing ideas to life, and working with dedicated teams to build efficient and robust applications suited to the user's needs.</h3>
+<h3 align="center"> With over three years of experience in Frontend Development, I'm passionate about embracing new technologies and transforming creative ideas into efficient, user-focused web applications. Collaborating with dedicated teams, I consistently deliver robust and innovative solutions tailored to meet the unique needs of our audience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra-23&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra-23" /> </p>
 
